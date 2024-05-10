@@ -1,5 +1,5 @@
 module(
-    name = "rules_cue",
+    name = "abc_dp_rules_cue",
     version = "0.0.0",
 )
 
